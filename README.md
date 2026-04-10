@@ -33,7 +33,7 @@ Get random advice
 ### Joke API
 Get random advice  
 `https://v2.jokeapi.dev/joke/Programming?blacklistFlags=nsfw,religious,political,racist,sexist,explicit&type=single`  
-- Display the `"slip.advice"` inside `<blockquote id="advice-output">`.
+- Display the `"joke"` inside `<blockquote id="joke-output">`.
 
 
 
